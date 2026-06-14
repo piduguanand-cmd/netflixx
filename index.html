@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NetflixX – Unlimited Movies</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/navbar.css">
+    <link rel="stylesheet" href="css/cards.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+<!-- Tilted Watermark -->
+<div class="watermark">
+    <span>anand anand anand</span><span>anand anand anand</span><span>anand anand anand</span>
+    <span>anand anand anand</span><span>anand anand anand</span><span>anand anand anand</span>
+    <span>anand anand anand</span><span>anand anand anand</span><span>anand anand anand</span>
+    <span>anand anand anand</span><span>anand anand anand</span><span>anand anand anand</span>
+    <span>anand anand anand</span><span>anand anand anand</span><span>anand anand anand</span>
+    <span>anand anand anand</span><span>anand anand anand</span><span>anand anand anand</span>
+    <span>anand anand anand</span><span>anand anand anand</span>
+</div>
+
+<nav class="navbar" id="navbar">
+    <div class="logo">NETFLIXX</div>
+    <ul class="nav-links">
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="movies.html">Movies</a></li>
+        <li><a href="favourites.html">Favourites</a></li>
+        <li><a href="mylist.html">My List</a></li>
+        <li><a href="#" id="logoutBtn">Logout</a></li>
+    </ul>
+    <input type="text" id="searchInput" placeholder="🔍 Search Movies...">
+</nav>
+
+<section class="hero">
+    <div class="hero-overlay">
+        <div class="hero-content">
+            <h1 id="heroTitle">Watch Anywhere. Cancel Anytime.</h1>
+            <p id="heroDesc">Unlimited Telugu, Hindi and English Movies.</p>
+            <div class="hero-buttons">
+                <button class="play-btn" id="heroPlayBtn">▶ Play</button>
+                <button class="info-btn" id="heroInfoBtn">ⓘ More Info</button>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="movies-section">
+    <h2>Trending Now</h2>
+    <div id="moviesContainer" class="movies-grid"></div>
+</section>
+
+<!-- Video Modal -->
+<div class="video-modal" id="videoModal">
+    <div class="video-wrapper">
+        <button class="close-video" id="closeVideoBtn">✕</button>
+        <video id="videoPlayer" controls>
+            <source src="" type="video/mp4">
+        </video>
+    </div>
+</div>
+
+<script src="js/common.js"></script>
+<script src="js/movies.js"></script>
+<script src="js/search.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

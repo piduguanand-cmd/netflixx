@@ -1,0 +1,53 @@
+/* Responsive adjustments for cards grid */
+@media (max-width: 1200px) {
+    .movies-grid {
+        grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+        gap: 18px;
+    }
+}
+
+@media (max-width: 992px) {
+    .movies-grid {
+        grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+        gap: 15px;
+    }
+}
+
+@media (max-width: 768px) {
+    .movies-grid {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: 12px;
+    }
+    .movie-card {
+        min-height: 300px;
+    }
+    .movie-card img {
+        height: 200px;
+    }
+}
+
+@media (max-width: 576px) {
+    .movies-grid {
+        grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+        gap: 10px;
+    }
+    .movie-card {
+        min-height: 280px;
+    }
+    .movie-card img {
+        height: 180px;
+    }
+    .movie-info h3 {
+        font-size: 13px;
+    }
+    .movie-info p {
+        font-size: 11px;
+    }
+}
+
+@media (max-width: 400px) {
+    .movies-grid {
+        grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+        gap: 8px;
+    }
+}

@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "title": "RRR",
+    "language": "Telugu",
+    "genre": "Action",
+    "year": "2022",
+    "rating": "8.0",
+    "image": "images/rrr1.jpg",
+    "description": "Epic action drama about two legendary revolutionaries.",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 2,
+    "title": "Pushpa",
+    "language": "Telugu",
+    "genre": "Action",
+    "year": "2021",
+    "rating": "7.8",
+    "image": "images/pushpa.jpg",
+    "description": "Rise of Pushpa Raj, a red sandalwood smuggler.",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 3,
+    "title": "Salaar",
+    "language": "Telugu",
+    "genre": "Action",
+    "year": "2023",
+    "rating": "7.5",
+    "image": "images/salaar.png",
+    "description": "Action packed gangster drama.",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 4,
+    "title": "Kalki 2898 AD",
+    "language": "Telugu",
+    "genre": "Sci-Fi",
+    "year": "2024",
+    "rating": "8.1",
+    "image": "images/kalki2898AD.jpg",
+    "description": "Futuristic mythology saga.",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 5,
+    "title": "Devara",
+    "language": "Telugu",
+    "genre": "Action",
+    "year": "2024",
+    "rating": "7.6",
+    "image": "images/devara.jpg",
+    "description": "Coastal action drama.",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 6,
+    "title": "Bahubali",
+    "language": "Telugu",
+    "genre": "Epic",
+    "year": "2015",
+    "rating": "8.2",
+    "image": "images/bahubali.jpg",
+    "description": "Legendary kingdom story.",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 7,
+    "title": "Jawan",
+    "language": "Hindi",
+    "genre": "Action",
+    "year": "2023",
+    "rating": "7.4",
+    "image": "images/jawan.jpg",
+    "description": "Action thriller.",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 8,
+    "title": "Pathaan",
+    "language": "Hindi",
+    "genre": "Action",
+    "year": "2023",
+    "rating": "7.3",
+    "image": "images/pathaan.jpg",
+    "description": "Spy action blockbuster.",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 9,
+    "title": "Animal",
+    "language": "Hindi",
+    "genre": "Crime",
+    "year": "2023",
+    "rating": "7.7",
+    "image": "images/animal.jpg",
+    "description": "Intense family crime drama.",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 10,
+    "title": "Stree 2",
+    "language": "Hindi",
+    "genre": "Horror Comedy",
+    "year": "2024",
+    "rating": "8.0",
+    "image": "images/stree 2.jpeg",
+    "description": "Supernatural comedy.",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 11,
+    "title": "Dangal",
+    "language": "Hindi",
+    "genre": "Sports",
+    "year": "2016",
+    "rating": "8.4",
+    "image": "images/dangal.jpeg",
+    "description": "Inspirational sports drama.",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 12,
+    "title": "War",
+    "language": "Hindi",
+    "genre": "Action",
+    "year": "2019",
+    "rating": "7.5",
+    "image": "images/war.jpg",
+    "description": "High-octane action thriller.",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 13,
+    "title": "Avatar",
+    "language": "English",
+    "genre": "Sci-Fi",
+    "year": "2009",
+    "rating": "7.9",
+    "image": "images/avatar.jpeg",
+    "description": "Pandora adventure.",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 14,
+    "title": "Oppenheimer",
+    "language": "English",
+    "genre": "Biography",
+    "year": "2023",
+    "rating": "8.6",
+    "image": "images/oppenheimer.jpeg",
+    "description": "Story of the atomic bomb.",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 15,
+    "title": "Batman",
+    "language": "English",
+    "genre": "Action",
+    "year": "2022",
+    "rating": "7.9",
+    "image": "images/batman.jpg",
+    "description": "Dark detective thriller.",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 16,
+    "title": "John Wick",
+    "language": "English",
+    "genre": "Action",
+    "year": "2023",
+    "rating": "8.0",
+    "image": "images/john wick.jpg",
+    "description": "Legendary assassin returns.",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 17,
+    "title": "Avengers",
+    "language": "English",
+    "genre": "Superhero",
+    "year": "2019",
+    "rating": "8.4",
+    "image": "images/avengers.jpg",
+    "description": "Marvel heroes unite.",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 18,
+    "title": "Inception",
+    "language": "English",
+    "genre": "Sci-Fi",
+    "year": "2010",
+    "rating": "8.8",
+    "image": "images/inception.jpg",
+    "description": "Dream within a dream.",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  }
+]
