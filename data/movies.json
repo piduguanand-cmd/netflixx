@@ -39,7 +39,7 @@
     "genre": "Sci-Fi",
     "year": "2024",
     "rating": "8.1",
-    "image": "images/kalki2898AD.jpg",
+    "image": "images/Kalki2898AD.jpg",
     "description": "Futuristic mythology saga.",
     "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
@@ -72,7 +72,7 @@
     "genre": "Action",
     "year": "2023",
     "rating": "7.4",
-    "image": "images/jawan.jpg",
+    "image": "images/Jawan.jpg",
     "description": "Action thriller.",
     "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
@@ -94,7 +94,7 @@
     "genre": "Crime",
     "year": "2023",
     "rating": "7.7",
-    "image": "images/animal.jpg",
+    "image": "images/Animal.jpg",
     "description": "Intense family crime drama.",
     "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
